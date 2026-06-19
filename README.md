@@ -22,8 +22,8 @@ PNG · JPEG · GIF · WebP · SVG · BMP
 index.html
 
 # 方式二：浏览器打开
-open index.html  # macOS
-start index.html # Windows
+打开 index.html # macOS
+启动 index.html # Windows
 ```
 
 将生成的 `data:` URL 粘贴到：
@@ -39,7 +39,3 @@ start index.html # Windows
                                          ↑
                                     离线URL，无需服务器
 ```
-
-## 许可
-
-MIT
